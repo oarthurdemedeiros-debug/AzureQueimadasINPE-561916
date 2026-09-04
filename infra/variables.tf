@@ -1,5 +1,5 @@
 variable "location" {
-  default = "chilecentral"
+  default = "southafricanorth"
 }
 
 variable "resource_group_name" {
