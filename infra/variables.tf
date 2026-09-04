@@ -24,5 +24,5 @@ variable "function_app_name" {
 }
 
 variable "storage_account_name" {
-  default = "stqueimadas561916"
+  default = "stqueimadas561916v2"
 }
